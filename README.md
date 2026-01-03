@@ -20,8 +20,9 @@ The Hostel Management System App is a robust solution for managing student data,
 3. Restore NuGet packages and build the solution.
 4. Update the SQL Server connection string in the Function.cs file.
 5. Run the application using Visual Studio or the executable file.
-**
-Tools and Technologies:**
+
+
+**Tools and Technologies:**
 
 - Windows Forms: GUI framework
 - SQL Server: Database management system
